@@ -383,4 +383,12 @@ div.footer h6 {
     ul.nav-links {
         display: none;
     }
+
+    input[type="email"], input[type="text"] {
+        width: 50%;
+    }
+
+    textarea {
+        width: 100%;
+    }
 }
